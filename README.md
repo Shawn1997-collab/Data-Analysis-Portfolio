@@ -1,14 +1,38 @@
 # Data-Analysis-Portfolio
-👋 Hi, I'm **Shaohui (Shawn) Ma** — a first-generation immigrant and data enthusiast passionate about turning raw data into actionable insights.
+## 👋 About Me
 
-🎓 I graduated from **California State University, Long Beach** with a degree in **Business Administration – Information Systems Management**, and hold both a **Business Analyst Certificate (CSULB)** and a **Google Analytics Certificate**.
+Hi, I'm **Shaohui (Shawn) Ma** — a first-generation immigrant and passionate data analyst who transforms raw data into actionable insights.
 
-🌐 I'm bilingual in **Mandarin (native)** and **English (advanced)**, with strong communication and problem-solving skills.
+🎓 I hold a degree in **Business Administration – Information Systems Management** from **California State University, Long Beach**, and certifications in **Business Analysis (CSULB)** and **Google Analytics**.
 
-💻 I have **over one year of hands-on experience** with tools and technologies including **SQL, Excel, pandas, Tableau, and R**.
+🌐 I'm **bilingual** in **Mandarin (native)** and **English (advanced)**, and known for my strong communication and problem-solving skills in cross-functional environments.
 
-📊 I enjoy diving into datasets, finding patterns, and telling stories that support better decision-making.
-This project demonstrates **data cleaning** and **exploratory data analysis (EDA)** using the Pokémon dataset in **Google Colab** with **pandas**.
+💻 With over **one year of hands-on experience**, I work confidently with tools like **SQL**, **Excel**, **pandas**, **Tableau**, and **R** to clean, analyze, and visualize data.
+
+📊 I love exploring datasets, identifying patterns, and telling compelling data stories that support smarter decisions.  
+My projects showcase real-world skills in **data cleaning**, **exploratory data analysis (EDA)**, and **interactive dashboards**, including work done in **Google Colab** using the **Pokémon dataset**.
+## 📬 Contact
+
+- 📧 Email: [shawnma785509956@gmail.com](mailto:shawnma785509956@gmail.com)  
+- 💼 LinkedIn: [Shaohui (Shawn) Ma](https://www.linkedin.com/in/shaohui-ma-2a1425233)
+- ## 🛠️ Skills
+
+- **Communication**  
+- **Problem-Solving**  
+- **Data-Driven Decision Making**  
+- **SQL**  
+- **Microsoft Office (Excel, Word, PowerPoint)**  
+- **Python (pandas)**  
+- **Tableau**  
+- **R**
+## 🏆 Accomplishments
+
+- Created an insightful **Tableau visualization** analyzing the World Happiness Report data.  
+- Designed a compelling **PowerPoint presentation** that helped my current job’s safety committee win the monthly contest.  
+- Used **Excel** and **SQL** in a class project to analyze and determine the best times to take classes to avoid parking difficulties.
+# 🧠 Data Analyst Portfolio
+
+
 # 🧹 Pokémon Data Exploration with pandas
 
 This project demonstrates **data cleaning** and **exploratory data analysis (EDA)** using the Pokémon dataset in **Google Colab** with **pandas**.
@@ -79,7 +103,7 @@ This project demonstrates **data cleaning**, **exploratory data analysis (EDA)**
 - Calculating and visualizing statistical measurements (variance, standard deviation, interquartile range, etc.)
 - [👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Cleaning_and_Exploration.ipynb))
   
-# 🧮Case Study: EV Adoption in U.S. (MySQL and Tableau)
+# 🧮EV Adoption in U.S. (MySQL and Tableau)
 The transition to electric vehicles (EVs) is accelerating across the United States, but adoption rates vary significantly by state. This project explores the key factors influencing EV adoption. In this project, I used **MySQL** and **Tableau** to explore key factors influencing EV adoption in the U.S.
 ## 📁 Dataset
 - Dataset used: EV State Detail.csv
