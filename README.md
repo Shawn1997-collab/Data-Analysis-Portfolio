@@ -108,7 +108,7 @@ You can view the full SQL script here:
 ## 📊 Query Results Visualizations(Tableau)
 ### 🖼️ Dashboard Preview  
 [![EV Dashboard](EV_Growth_vs_Infrastructure.png)](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/EV%20Growth%20vs.%20Infrastructure.png)
-### 🖼️ Detail of Visualization
+### 🖼️ Full Visualization
 [View Full Tableau Project on Tableau Public](https://public.tableau.com/views/EVs_17513195932010/EVGrowthvs_Infrastructure)
 
 
