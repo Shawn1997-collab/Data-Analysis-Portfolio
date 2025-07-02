@@ -47,7 +47,7 @@ This project demonstrates **data cleaning** and **exploratory data analysis (EDA
 ## 📎 View the Notebook
 [👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Exploration.ipynb))
 
-# 🧹 Data Cleaning & Exploration with pandas (Project 2)
+# 🧹 Data Cleaning & Exploration with pandas
 
 This project demonstrates **data cleaning**, **exploratory data analysis (EDA)**, and **data manipulation** using Python's `pandas` library in a Google Colab environment.
 
@@ -78,4 +78,44 @@ This project demonstrates **data cleaning**, **exploratory data analysis (EDA)**
 - Displaying all numeric and categorical variables
 - Calculating and visualizing statistical measurements (variance, standard deviation, interquartile range, etc.)
 - [👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Cleaning_and_Exploration.ipynb))
+  
+# 🧮 EV Adoption in U.S. (MySQL and Tableau)
+In this project, I used **MySQL** to explore what could impact the electric vehicle adoption in the United States
+## 📁 Dataset
+- Dataset used: EV State Detail.csv
+- ## 🛠️ Tools & Technologies
+- MySQL
+- MySQL Workbench 
+## 🔍 Key Exploration Tasks
+- Inspect schema and table structure
+- Apply filtering, sorting, and conditions
+- Ranking based on certain columns
+- Explore correlations between EV adoption rates and potential influencing factors using both national-level and state-level data.
+## 📊 Sample Query – Gasoline Price Ranking (2023)
+
+This query ranks U.S. states based on their average gasoline price per gallon in 2023.
+
+```sql
+SELECT state, ROUND(gasoline_price_per_gallon, 2) AS gas_price,
+       RANK() OVER (ORDER BY gasoline_price_per_gallon DESC) AS National_Ranking
+FROM porfolio.ev_data
+WHERE year = 2023;
+```
+
+You can view the full SQL script here:  
+[Portfolio Data Exploration.sql](./Portfolio%20Data%20Exploration.sql)
+
+## 📊 Query Results Visualizations(Tableau)
+### 🖼️ Dashboard Preview  
+![EV Dashboard Screenshot](./images/ev_dashboard.png)
+
+## 🔍 Key Findings
+California has the most electric vehicles nationwide in 2023
+- States with more charging stations tend to have higher EV adoption rates.
+- States with higher gasoline prices usually have higher electric vehicle adoption.
+- Due to electric vehicles' affordability, people with higher average income usually tend to purchase electric vehicles.
+- Each state's government's tax and environmental policies could impact electric vehicle adoption. (Ex: California)
+- For electric vehicle manufacturers, states like California, Florida, and Texas.
+- Building more charging stations is important to increase sales in states with low electric vehicle adoption.
+
 
