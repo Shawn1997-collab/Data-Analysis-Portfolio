@@ -79,8 +79,8 @@ This project demonstrates **data cleaning**, **exploratory data analysis (EDA)**
 - Calculating and visualizing statistical measurements (variance, standard deviation, interquartile range, etc.)
 - [👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Cleaning_and_Exploration.ipynb))
   
-# 🧮 EV Adoption in U.S. (MySQL and Tableau)
-In this project, I used **MySQL** to explore what could impact the electric vehicle adoption in the United States
+# 🧮Case Study: EV Adoption in U.S. (MySQL and Tableau)
+The transition to electric vehicles (EVs) is accelerating across the United States, but adoption rates vary significantly by state. This project explores the key factors influencing EV adoption. In this project, I used **MySQL** and **Tableau** to explore key factors influencing EV adoption in the U.S.
 ## 📁 Dataset
 - Dataset used: EV State Detail.csv
 - ## 🛠️ Tools & Technologies
@@ -122,5 +122,26 @@ California has the most electric vehicles nationwide in 2023
 - Each state's government's tax and environmental policies could impact electric vehicle adoption. (Ex: California)
 - For electric vehicle manufacturers, states like California, Florida, and Texas.
 - Building more charging stations is important to increase sales in states with low electric vehicle adoption.
+
+## 🧭 Recommendations / Next Steps
+
+Based on the analysis of EV growth versus infrastructure across U.S. states, the following actions are recommended to support wider electric vehicle (EV) adoption:
+
+- 🏛 **Government Policy Engagement**  
+  Work with local and federal governments to introduce or expand tax credits and rebates that make EV ownership more financially appealing, especially in low-adoption regions.
+
+- 💲 **Make EVs More Affordable**  
+  Encourage policies and partnerships that lower the purchase cost of EVs, such as manufacturer subsidies, zero-interest loans, or used EV incentives.
+
+- ⚡ **Expand Charging Infrastructure**  
+  Invest in public charging stations in underserved and rural areas. Accessibility to charging is critical for potential EV buyers.
+
+- 📍 **Target Deployment in Low-Adoption States**  
+  Focus infrastructure and incentive development in states with the lowest EV penetration to reduce regional adoption gaps.
+
+- 📣 **Public Awareness Campaigns**  
+  Launch educational efforts that promote EV benefits and inform the public about available financial incentives.
+
+
 
 
