@@ -45,7 +45,7 @@ This project demonstrates **data cleaning** and **exploratory data analysis (EDA
 - `Data Exploration.ipynb`: Main Colab notebook with all code
 - `pokemon.csv`: Original dataset
 ## 📎 View the Notebook
-[👉 Open in Google Colab](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Exploration.ipynb))
+[👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Exploration.ipynb))
 
 # 🧹 Data Cleaning & Exploration with pandas (Project 2)
 
@@ -77,5 +77,5 @@ This project demonstrates **data cleaning**, **exploratory data analysis (EDA)**
 - Examining and removing missing values
 - Displaying all numeric and categorical variables
 - Calculating and visualizing statistical measurements (variance, standard deviation, interquartile range, etc.)
-- [👉 Open in Google Colab](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Cleaning_and_Exploration.ipynb))
+- [👉 Project File](https://github.com/Shawn1997-collab/Data-Analysis-Portfolio/blob/main/Data_Cleaning_and_Exploration.ipynb))
 
