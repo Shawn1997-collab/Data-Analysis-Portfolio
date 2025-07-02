@@ -5,7 +5,7 @@
 
 🌐 I'm bilingual in **Mandarin (native)** and **English (advanced)**, with strong communication and problem-solving skills.
 
-💻 I have **over 1 year of hands-on experience** with tools and technologies including **SQL, Excel, pandas, Tableau, and R**.
+💻 I have **over one year of hands-on experience** with tools and technologies including **SQL, Excel, pandas, Tableau, and R**.
 
 📊 I enjoy diving into datasets, finding patterns, and telling stories that support better decision-making.
 This project demonstrates **data cleaning** and **exploratory data analysis (EDA)** using the Pokémon dataset in **Google Colab** with **pandas**.
